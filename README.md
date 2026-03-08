@@ -1,5 +1,11 @@
 # Kaggle Intro to Machine Learning
 
+```markdown
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-orange)
+![Kaggle](https://img.shields.io/badge/Kaggle-Course-blue)
+```
+
 This repository contains my completed **tutorials and exercises from the Kaggle "Intro to Machine Learning" course**.
 
 The goal of this project is to learn the **fundamental concepts of machine learning** including model building, validation, and improving model performance using ensemble methods.
