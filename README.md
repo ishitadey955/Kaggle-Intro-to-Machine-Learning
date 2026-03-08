@@ -83,3 +83,34 @@ Concepts covered:
 
 ---
 
+## Dataset
+
+The project uses the **Melbourne Housing Dataset**, which contains information about housing prices including:
+
+- Number of rooms
+- Land size
+- Building area
+- Year built
+- Location coordinates
+
+The goal is to **predict house prices using machine learning models**.
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Jupyter Notebook
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ishitadey955/Kaggle-Intro-to-Machine-Learning.git
+cd kaggle-intro-to-ml
