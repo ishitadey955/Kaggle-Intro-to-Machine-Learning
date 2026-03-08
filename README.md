@@ -1,10 +1,8 @@
 # Kaggle Intro to Machine Learning
 
-```markdown
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-orange)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Course-blue)
-```
 
 This repository contains my completed **tutorials and exercises from the Kaggle "Intro to Machine Learning" course**.
 
