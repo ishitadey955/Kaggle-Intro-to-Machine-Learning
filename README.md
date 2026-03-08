@@ -117,4 +117,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/ishitadey955/Kaggle-Intro-to-Machine-Learning.git
-cd kaggle-intro-to-ml
+
